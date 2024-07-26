@@ -7,8 +7,8 @@ function App() {
         <div className="left">
           <img src="https://colorlib.com/etc/regform/colorlib-regform-3/images/bg-heading-03.jpg"></img>
         </div>
-        <div className="right">
-          <h2>Registration Info</h2>
+        <form className="right">
+        <h2>Registration Info</h2>
           <div className="inputDiv">
           <input type="text" placeholder="Name" required></input>
           <input type="date" placeholder="Bhirdate" required></input>
@@ -22,7 +22,7 @@ function App() {
           <input type="number" placeholder="Phone" required></input>
           </div>
           <button className="btn">Submit</button>
-        </div>
+        </form>
       </div>
     </div>
   );
