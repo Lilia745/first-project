@@ -8,7 +8,7 @@ function App() {
           <img src="https://colorlib.com/etc/regform/colorlib-regform-3/images/bg-heading-03.jpg"></img>
         </div>
         <div className="right">
-
+          
         </div>
       </div>
     </div>
