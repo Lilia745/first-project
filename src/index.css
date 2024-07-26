@@ -39,8 +39,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
-  padding: 20px;
+  padding: 50px;
 }
 .right>h2{
   color: white;
@@ -60,7 +59,7 @@
   background-color: black;
   border: none;
   border-bottom: 1px solid rgba(255, 255, 255, 0.604);
-  font-size: 20px;
+  font-size: 18px;
   color: rgba(255, 255, 255, 0.514);
 }
 .inputDiv>select{
@@ -69,6 +68,6 @@
   background-color: black;
   border: none;
   border-bottom: 1px solid rgba(255, 255, 255, 0.604);
-  font-size: 20px;
+  font-size: 18px;
   color: rgba(255, 255, 255, 0.514);
 }

@@ -21,6 +21,7 @@ function App() {
           <input type="email" placeholder="Email" required></input>
           <input type="number" placeholder="Phone" required></input>
           </div>
+          <button className="btn">Submit</button>
         </div>
       </div>
     </div>
